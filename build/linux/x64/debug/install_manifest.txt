@@ -1,0 +1,12 @@
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ayotech/Documents/flutter_lesson/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
