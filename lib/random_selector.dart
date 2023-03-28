@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/generator_page.dart';
 
 class RandomSelectorPage extends StatefulWidget {
   const RandomSelectorPage({super.key});
@@ -43,6 +44,11 @@ class _RandomSelectorPageState extends State<RandomSelectorPage> {
         onPressed: () {
           if (formkey.currentState?.validate() == true) {
             formkey.currentState?.save();
+            Navigator.of(context).push(MaterialPageRoute(
+                builder: (context) => Generator(
+                      min: _min,
+                      max: _max,
+                    )));
           }
         },
       ),
